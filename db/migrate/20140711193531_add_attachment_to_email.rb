@@ -1,3 +1,4 @@
+include Paperclip::Schema
 class AddAttachmentToEmail < ActiveRecord::Migration
   def self.up
     change_table :emails do |t|

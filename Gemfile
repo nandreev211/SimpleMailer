@@ -32,7 +32,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-#gem 'paperclip'
+gem 'paperclip'
 
 
 # Use ActiveModel has_secure_password
