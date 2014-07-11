@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails SimpleMailer: development" uuid="cfd6a687-f4b8-48bf-9441-310bf95e44d5">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails SimpleMailer: test" uuid="ad025288-689f-44cd-a180-66c0d74d4ff9">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails SimpleMailer: production" uuid="95fb0858-d3f6-4a7b-9f72-9eff985d2ddb">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

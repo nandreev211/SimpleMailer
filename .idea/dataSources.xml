@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="260717581">
+    <data-source source="LOCAL" name="Rails SimpleMailer: development" uuid="cfd6a687-f4b8-48bf-9441-310bf95e44d5">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:simple_mailer</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails SimpleMailer: test" uuid="ad025288-689f-44cd-a180-66c0d74d4ff9">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:simple_mailer_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails SimpleMailer: production" uuid="95fb0858-d3f6-4a7b-9f72-9eff985d2ddb">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:simple_mailer_production</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
